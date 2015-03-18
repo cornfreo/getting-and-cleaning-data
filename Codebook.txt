@@ -1,0 +1,21 @@
+Objective of this study:
+The raw data set:
+
+The processing script:
+
+Summary Choices:
+
+The tidy data set:
+
+The experimental study used
+
+Study Design
+	The data was collected by UCI Machine Learning Laboratory.
+	The data was obtained for the purpose of this study from 
+		link:
+
+Code Book
+	The tidy data set contains the following variables:
+
+	Variable     	Units 		Description
+
